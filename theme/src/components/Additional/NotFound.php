@@ -1,0 +1,3 @@
+<h2 class="xl:text-4xl text-xl text-black text-center flex justify-center items-center font-bold h-full w-full">
+    Здесь пока что пусто...
+</h2>
